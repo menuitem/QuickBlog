@@ -10,6 +10,7 @@
  *
  *= require_self
  *= require_tree .
+ *= require bootswatch/united/bootstrap
  */
 textarea{
 	height: 3em;
